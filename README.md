@@ -9,7 +9,7 @@
 
 ## 💻 Skills
 - **Programming Languages:** SQL (SQLite, MySQL) | Basic R (ggplot2, tidyverse)
-- **Tools**: Excel | Tableau | Google BigQuery
+- **Tools**: Excel | Tableau | Power BI | Google BigQuery
 
 ## 📚 Projects
 
