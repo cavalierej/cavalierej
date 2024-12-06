@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm John, an aspiring data professional from Toronto, Canada.
 
-<!--
-**cavalierej/cavalierej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ About Me
 
-Here are some ideas to get you started:
+- 📊 I'm an aspiring data analyst
+- 💼 I currently work as a Document Control Coordinator
+- 📈 I have a Bachelor of Commerce in Economics & Management Science
+- 🌱 I’m working towards becoming certified in Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Programming Languages:** SQL (SQLite, MySQL) | Basic R (ggplot2, tidyverse)
+- **Tools**: Excel | Tableau | Google BigQuery
+
+## 📚 Projects
+
+- [Cyclistic Case Study](https://github.com)
+
+## 🖼️ Certifications
+
+- [Google Data Analytics Certificate](https://google.com)
+
+## 📩 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/john-cavaliere-4a574a13a/)
