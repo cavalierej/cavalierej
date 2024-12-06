@@ -13,7 +13,7 @@
 
 ## 📚 Projects
 
-- [Cyclistic Case Study](https://github.com)
+- [Cyclistic Case Study](https://github.com/cavalierej/cyclistic-case-study)
 
 ## 🖼️ Certifications
 
