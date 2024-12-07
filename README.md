@@ -17,7 +17,7 @@
 
 ## 🖼️ Certifications
 
-- [Google Data Analytics Certificate](https://google.com)
+- [Google Data Analytics Certificate](https://www.credly.com/badges/6958eb8b-95a2-4774-9ffd-f8b8e5b36e63/public_url)
 
 ## 📩 Connect
 
