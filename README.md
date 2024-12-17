@@ -22,3 +22,4 @@
 ## 📩 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/john-cavaliere-4a574a13a/)
+- cavalierej@outlook.com
