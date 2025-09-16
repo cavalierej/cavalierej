@@ -14,6 +14,7 @@
 ## 📚 Projects
 
 - [Cyclistic Case Study](https://github.com/cavalierej/cyclistic-case-study)
+- [Nursery Inc. Dashboard](https://github.com/cavalierej/powerbi-nurseryinc-dashboard/tree/main)
 
 ## 🖼️ Certifications
 
